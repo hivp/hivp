@@ -18,6 +18,6 @@
 <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux%20-%2314354C.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana%20-%2314354C.svg?&style=for-the-badge&logo=Grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana%20-%2314354C.svg?&style=for-the-badge&logo=Grafana&logoColor=red"/>
 
  
