@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Hugo. I am currently working as a Site Reliability Engineer (SRE). Previous jobs as Java Developer, Software Engineer, Software Architect and DevOps.
+- 👋 Hi, My name is Hugo. I am currently working as a Site Reliability Engineer (SRE). Previous jobs: Java Developer, Software Engineer, Software Architect and DevOps.
 
 - 👀 I’m interested in Chaos Engineering and Site Reliability Engeneering related stuffs, such as Monitoring, Golden Signals: Latency, Traffic, Errors, Saturation.
 
