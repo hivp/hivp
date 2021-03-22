@@ -35,12 +35,20 @@
   <a href="https://www.amazon.com/Learning-Chaos-Engineering-Discovering-Experimentation/dp/1492051004/ref=sr_1_2?crid=1J401903WAESN&dchild=1&keywords=chaos+engineering&qid=1616421775&sprefix=chaos+engi%2Caps%2C349&sr=8-2">
 <img src="https://images-na.ssl-images-amazon.com/images/I/51WY3M2Xn-L._SX379_BO1,204,203,200_.jpg" width="220" height="300"/>
 </a> 
-  </td>
+</td>
+ 
 <td style="width: 302.5px;">
 <a href="https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505/ref=sr_1_2?crid=10XS4KXNRQCP7&dchild=1&keywords=site+reliability+engineering&qid=1616422177&sprefix=site+reli%2Caps%2C302&sr=8-2">
 <img src="https://user-images.githubusercontent.com/11853819/112002909-25c6a100-8aff-11eb-96ff-48409b63d4f1.png"/>
 </a>   
 </td>
+ 
+<td style="width: 302.5px;">
+<a href="https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813/ref=sr_1_1?crid=3C0MOM3VKY8FK&dchild=1&keywords=implementing+service+level+objectives&qid=1616423290&sprefix=implementing+service+le%2Caps%2C284&sr=8-1">
+<img src="https://images-na.ssl-images-amazon.com/images/I/512gGMPavrL._SX379_BO1,204,203,200_.jpg" width="220" height="300"/>
+</a>   
+</td> 
+ 
 </tr>
 </tbody>
 </table>
