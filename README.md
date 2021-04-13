@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=green"/>
 <img src="https://img.shields.io/badge/Linux%20-%2314354C.svg?&style=for-the-badge&logo=Linux&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Grafana%20-%2314354C.svg?&style=for-the-badge&logo=Grafana&logoColor=red"/>
+<img src="https://img.shields.io/badge/Java%20-%2314354C.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+
 
 <br />
 
