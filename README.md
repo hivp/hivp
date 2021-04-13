@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in Chaos Engineering and Site Reliability Engeneering related stuffs, such as Monitoring, Golden Signals: Latency, Traffic, Errors, Saturation.
 
-- 🌱 I’m currently learning Chaos Toolkit and Litmus Chaos, Grafana.
+- 📚 I’m currently learning Chaos Toolkit and Litmus Chaos, Grafana.
 
-- 💞️ I’m looking to collaborate on Chaos Tolkit and Litmus Chaos extensions/plugins.
+- 💻 I’m looking to collaborate on Chaos Tolkit and Litmus Chaos extensions/plugins.
 
 - 📫 How to reach me :
 
