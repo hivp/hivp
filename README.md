@@ -27,6 +27,27 @@
 <br />
 
 
+#### Certifications
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 302.5px;">
+<img width="386" alt="image" src="https://github.com/hivp/hivp/assets/11853819/5f872d0a-15d9-41d1-ba40-fb358d995487">   
+</td>
+ 
+<td style="width: 302.5px;">
+<img width="378" alt="image" src="https://github.com/hivp/hivp/assets/11853819/01c47838-faf4-47ab-8eaa-ca7bd5d7b5e5">
+</td> 
+<td style="width: 302.5px;">
+<img width="381" alt="image" src="https://github.com/hivp/hivp/assets/11853819/b7d39ee7-d20b-4f79-a8c4-619ac90ae3f2">
+</td>
+ 
+</tr>
+</tbody>
+</table>
+
+<br />
+
 #### Currently reading:
 
 
